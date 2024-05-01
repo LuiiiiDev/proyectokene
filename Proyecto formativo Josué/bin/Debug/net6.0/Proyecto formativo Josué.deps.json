@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto formativo Josué/1.0.0": {
+        "runtime": {
+          "Proyecto formativo Josué.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto formativo Josué/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
